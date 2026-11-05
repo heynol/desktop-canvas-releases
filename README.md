@@ -11,4 +11,5 @@ wallpaper from it, across every display and Space, with smooth transitions.
 - Runs on your Mac. Details about your files only leave it if you pick the AI style and
   add your own OpenAI or Google Gemini key.
 
-This repository only hosts the releases.
+This repository only hosts the releases. The source code is at
+[heynol/desktop-canvas](https://github.com/heynol/desktop-canvas), under the GNU GPL v3.
